@@ -1,2 +1,6 @@
 node_modules
-.vs-code
+.vscode
+.cache
+dist
+.cache/
+dist/rm 
